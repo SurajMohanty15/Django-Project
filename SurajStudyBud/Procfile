@@ -1,1 +1,1 @@
-web:gunicorn SurajStudyBud.wsgi
+web: gunicorn SurajStudyBud.wsgi
